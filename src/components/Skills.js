@@ -1,1 +1,1 @@
-export default function Skils() {}
+export default function Skills() {}
