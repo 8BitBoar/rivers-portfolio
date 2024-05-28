@@ -10,19 +10,28 @@ export default function Contact() {
                         in/sriversgreen
                     </h2>
                 </div>
-                <div>
+                <div className="ml-4 flex-col text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none rounded text-lg">
                     <h2 className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
                         Email
                     </h2>
+                    <h2>
+                        riversgreen.shaelyn@gmail.com
+                    </h2>
                 </div>
-                <div>
+                <div className="ml-4 flex-col text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none rounded text-lg">
                     <h2 className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
                         Phone Number
                     </h2>
+                    <h2>
+                        (803) 247 - 2814
+                    </h2>
                 </div>
-                <div>
+                <div className="ml-4 flex-col text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none rounded text-lg">
                     <h2 className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
                         GitHub
+                    </h2>
+                    <h2 className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+                        <a href="https://github.com/8BitBoar">https://github.com/8BitBoar</a>
                     </h2>
                 </div>
           </div>
