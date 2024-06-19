@@ -12,7 +12,7 @@ export default function Contact() {
                 <div className="ml-4 flex-col text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none rounded text-lg">
                     <h2 className="title-font font-semibold text-white tracking-widest text-400">LinkedIn</h2>
                     <h2 className="hover:bg-gray-700 hover:text-white">
-                        <a href="www.linkedin.com/in/sriversgreen">in/sriversgreen</a>
+                        <a href="https://linkedin.com/in/sriversgreen">in/sriversgreen</a>
                     </h2>
                 </div>
                 <div className="ml-4 flex-col text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none rounded text-lg">
