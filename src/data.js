@@ -46,10 +46,11 @@ export const hobbyProjects = [
 
 
 export const skills = [
+  "Java",
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Lua",
+  "SQL",
+  "CSS",
+  "TailwindCSS",
 ];
